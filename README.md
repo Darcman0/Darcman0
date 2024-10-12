@@ -7,7 +7,7 @@ Je suis un Géographe, Technicien supérieur en Géomatique Je suis de [Diamniad
 - **Master** *Geographie physique à L'ucad* (2021)
 - **Licence** *en Géography* (2020) 
 - **BTS** *de Géomatique en* (2021)
-
+  - 
 
 
 
