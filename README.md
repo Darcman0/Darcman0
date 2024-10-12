@@ -1,4 +1,7 @@
-## Hi there 👋
+## Abdou Aziz Darc
+
+Je suis un Géographe, Technicien supérieur en Géomatique Je suis de [Diamniadio](https://www.senegel.org/fr/senegal/organizations/orgdetails/755) . Visiter mon [LinkedIn](https://www.linkedin.com/in/abdou-aziz-darc-/)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -8,6 +11,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 <!--
 **Darcman0/Darcman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
