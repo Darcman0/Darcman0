@@ -1,13 +1,13 @@
 ## Abdou Aziz Darc
 
-Je suis un Géographe, Technicien supérieur en Géomatique Je suis de [Diamniadio](https://www.senegel.org/fr/senegal/organizations/orgdetails/755) . Visiter mon [LinkedIn](https://www.linkedin.com/in/abdou-aziz-darc-/), ou ma chaine youtube.
+Je suis un Géographe, Technicien supérieur en Géomatique. J'habite à [Diamniadio](https://www.senegel.org/fr/senegal/organizations/orgdetails/755) . Visiter mon [LinkedIn](https://www.linkedin.com/in/abdou-aziz-darc-/), ou ma chaine [youtube](https://www.youtube.com/@drsig8).
 
 ### Scolarité
 
 - **Master** *Geographie physique à L'ucad* (2021)
 - **Licence** *en Géography* (2020) 
 - **BTS** *de Géomatique en* (2021)
-  - 
+
 
 
 
